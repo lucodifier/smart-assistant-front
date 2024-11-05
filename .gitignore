@@ -1,0 +1,65 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Next.js build output
+.next/
+
+# Yarn
+yarn-error.log
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel-bundler cache (if you're using Parcel)
+.cache/
+
+# Mac system files
+.DS_Store
+
+# Editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Production build directory
+build/
+
+# Test coverage reports
+coverage/
+
+# Jest cache
+jest-cache/
+jest-config/
+
+# Typescript
+*.tsbuildinfo
+
+# Ignore these if using React Native
+.expo/
+.expo-shared/
+android/
+ios/
