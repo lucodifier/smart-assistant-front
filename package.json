@@ -98,7 +98,8 @@
     "eject": "react-scripts eject",
     "lint": "eslint --fix --ext .js,.jsx .",
     "json-serve": "node public/server.js",
-    "start-developer": "concurrently \"react-scripts start\" \"node public/server.js\""
+    "start-developer": "concurrently \"react-scripts start\" \"node public/server.js\"",
+    "generate": "nuxt generate"
   },
   "resolutions": {
     "react-dev-utils": "10.0.0"
